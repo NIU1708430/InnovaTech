@@ -1,0 +1,20 @@
+# Requirement 
+### ID: 
+_RNF-2-01_
+
+### Type/Category: 
+_NO Funcional / Requisito de interfície externa (interfície de usuario)_
+
+### Version: 
+_1.0_ 
+
+### Title: 
+_Orden de platos_ 
+
+### Description: 
+_Los primeros platos que aparezcan en la lista serán aquellos que cumplan con las restricciones alimentárias del usuario, incluirán el tiempo estimado de espera._
+
+### Relations: 
+_Sense completar (pending)_ 
+
+### Comments: 
