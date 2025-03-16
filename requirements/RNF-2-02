@@ -1,0 +1,20 @@
+# Requirement 
+### ID: 
+_RNF-2-02_
+
+### Type/Category: 
+_NO Funcional / Requisito de interfície externa (interfície de usuario)_
+
+### Version: 
+_1.0_ 
+
+### Title: 
+_Cambio de vista_ 
+
+### Description: 
+_En el listado, los usuarios pueden escoger si ver platos y menús disponibles o usuarios que estén ofreciendo su servicio en el momento. Siempre ordenados por distáncia a la ubicación del usuario._
+
+### Relations: 
+_Sense completar (pending)_ 
+
+### Comments: 
