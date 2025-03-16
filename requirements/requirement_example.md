@@ -3,7 +3,7 @@
 _RNF-7-01_
 
 ### Type/Category: 
-_NO Funcional / Decisions de Disseny _
+_NO Funcional / Decisions de Disseny_
 
 ### Version: 
 _1.0_
