@@ -1,26 +1,26 @@
-Requirement 
-ID: 
-RNF-7-01
+# Requirement 
+### ID: 
+_RNF-7-01_
 
-Type/Category: 
-NO Funcional / Decisions de Disseny 
+### Type/Category: 
+_NO Funcional / Decisions de Disseny _
 
-Version: 
-1.0 
+### Version: 
+_1.0_
 
-Title: 
-SGBD PostgreSQL 
+### Title: 
+_SGBD PostgreSQL_ 
 
-Description: 
-El Sistema Gestor de Bases de Dades haurà de ser PostgreSQL. Totes les dades 
+### Description: 
+_El Sistema Gestor de Bases de Dades haurà de ser PostgreSQL. Totes les dades 
 del sistema hi seran en una BDD Relacional. Caldrà proporcionar un conjunt de 
-d'arxius en format SQL per definir les taules i restriccions de la Base de Dades. 
+d'arxius en format SQL per definir les taules i restriccions de la Base de Dades._ 
 
-Relations: 
-Sense completar (pending) 
+### Relations: 
+_Sense completar (pending)_ 
 
-Comments: 
-Caldrà definir en el disseny les versions especifiques a utilitzar i la plataforma a 
+### Comments: 
+_Caldrà definir en el disseny les versions especifiques a utilitzar i la plataforma a 
 on s'executarà. També hi serà necessari definir un roadmap de manteniment 
 amb un mínim de 6 anys. En el cas de que el EOL no pugui garantir aquest 
-període caldrà dissenyar un procés de migració.
+període caldrà dissenyar un procés de migració._
