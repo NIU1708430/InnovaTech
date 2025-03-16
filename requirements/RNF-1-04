@@ -1,0 +1,21 @@
+Requirement 
+ID: 
+RNF-1-04
+
+Type/Category: 
+No funcional / Decisión de diseño
+
+Version: 
+1.0 
+
+Title: 
+Requisito nombres de usuario
+
+Description: 
+El nombre de usuario deberá tener 5 caracteres como mínimo y no podrá estar repetido dentro del
+sistema.
+
+Relations: 
+Sense completar (pending) 
+
+Comments:
