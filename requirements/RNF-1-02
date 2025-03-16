@@ -1,0 +1,21 @@
+Requirement 
+ID: 
+RNF-1-02
+
+Type/Category: 
+No funcional / Restricción de diseño (seguridad)
+
+Version: 
+1.0 
+
+Title: 
+Pedidos disponibles sólo para usuarios registrados
+
+Description: 
+Sólo los usuarios que estén registrados en la aplicación, podrán hacer su pedido.
+
+Relations: 
+Sense completar (pending) 
+
+Comments:
+El método de registro será especificado en otro requisito.
