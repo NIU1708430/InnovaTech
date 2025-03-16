@@ -1,0 +1,21 @@
+Requirement 
+ID: 
+RNF-1-05
+
+Type/Category: 
+No funcional / Decisión de diseño
+
+Version: 
+1.0 
+
+Title: 
+Requisito contraseñas de usuario
+
+Description: 
+La contraseña, deberá tener 8 caracteres como mínimo, siendo
+imprescindible usar dos mayúsculas y al menos dos caracteres especiales.
+
+Relations: 
+Sense completar (pending) 
+
+Comments:
