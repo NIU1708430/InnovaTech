@@ -22,6 +22,7 @@ Los usuarios pueden hacer reservas para franjas horarias que el cocinero haya ma
 ---
 
 ### Precondiciones
+El usuario debe haber iniciado sesión.
 El cocinero debe haber establecido horarios en los que está disponible.
 
 ---
