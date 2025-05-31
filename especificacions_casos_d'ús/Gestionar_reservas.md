@@ -21,6 +21,11 @@ Los usuarios pueden hacer reservas para franjas horarias que el cocinero haya ma
 
 ---
 
+### Precondiciones
+El cocinero debe haber establecido horarios en los que está disponible.
+
+---
+
 ### Flujo Principal
 1. El cliente ve las franjas horarias disponibles del cocinero.
 2. El cliente elije una franja para realizar su reserva.
