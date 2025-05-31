@@ -24,7 +24,7 @@ Los usuarios pueden buscar un plato o usuario específico mediante una barra de 
 
 ### Flujo Principal
 1. El usuario introduce el nombre de un cocinero o plato que le interesa.
-2.El sistema mostra todos los resultados cuyos nombres coincidan con la búsqueda. 
+2. El sistema mostra todos los resultados cuyos nombres coincidan con la búsqueda. 
 
 ---
 
