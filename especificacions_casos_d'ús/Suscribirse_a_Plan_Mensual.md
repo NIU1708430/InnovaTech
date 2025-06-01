@@ -29,10 +29,10 @@ El cliente tiene un método de pago configurado en su cuenta.
 ---
 
 ### Flujo Principal
-1.El cliente accede a la sección de suscripciones.
-2.Selecciona el plan mensual.
-3.El sistema solicita la autenticación del método de pago.
-4.El sistema realiza el cobro correspondiente.
-5.Se activa el plan en la cuenta del cliente.
+1. El cliente accede a la sección de suscripciones.
+2. Selecciona el plan mensual.
+3. El sistema solicita la autenticación del método de pago.
+4. El sistema realiza el cobro correspondiente.
+5. Se activa el plan en la cuenta del cliente.
 
 ---
