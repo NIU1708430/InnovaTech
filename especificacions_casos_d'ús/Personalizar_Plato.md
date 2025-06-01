@@ -1,4 +1,4 @@
-# Caso de Uso: Proponer Plato Personalizado
+# Caso de Uso: Personalizar Plato
 
 ### Versión
 1.0
